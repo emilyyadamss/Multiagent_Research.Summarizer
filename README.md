@@ -1,5 +1,6 @@
 # Hands-On Lab: Building 2-Agent System
 Completed by Emily Adams, Lab given by Agentic AI Mastery Course
+No AI was used to produce this beyond the needed responses. All was for learning purposes. 
 
 Build a 2-Agent System
 Agents
